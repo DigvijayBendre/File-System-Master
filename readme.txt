@@ -1,4 +1,4 @@
-## Short Overview of the file system Implementation
+		Short Overview of the baby step 2 for file system
 
 
 Disk size - 20 mb
@@ -42,8 +42,9 @@ The concept used to manage Virtual disk is :
 
 * We print the error by checking the value returned from the subroutine.
 
- TO RUN THE PROGRAM, type the following on the terminal:
-```
+#######################################################################
+TO RUN THE PROGRAM, type the following on the terminal:
 $ make
 $ ./all
-```
+
+
